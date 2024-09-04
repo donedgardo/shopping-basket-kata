@@ -1,0 +1,13 @@
+{
+  "name": "shopping-basket-kata",
+  "version": "1.0.0",
+  "main": "index.js",
+  "license": "MIT",
+  "dependencies": {},
+  "devDependencies": {
+    "vitest": "^2.0.5"
+  },
+  "scripts": {
+    "test": "vitest"
+  }
+}
