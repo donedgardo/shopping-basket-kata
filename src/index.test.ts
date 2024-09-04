@@ -1,5 +1,5 @@
 import { expect, describe, it } from 'vitest'
-import { sum } from './index'
+import { sum } from './index.js'
 
 describe('sum', () => {
   it('adds 1 + 2 to equal 3', () => {
